@@ -1,1 +1,2 @@
-pro
+config:
+  info: main config-pro.yml, version=1 
